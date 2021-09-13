@@ -18,7 +18,7 @@ https://github.com/sknsht/HackerRank
 </h3>
 
 <p align="center">
-  <a href="https://github.com/acuon"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Intezar%20Ahmad;Computer%20Science%20Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/theintezar"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Intezar%20Ahmad;Computer%20Science%20Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">

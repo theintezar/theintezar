@@ -75,7 +75,9 @@ https://github.com/sknsht/HackerRank
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/theintezar/github-readme-stats"><img alt="theintezar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theintezar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/theintezar/github-readme-stats"><img alt="theintezar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theintezar&langs_count=30&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/theintezar/github-readme-stats">
+  <img alt="theintezar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theintezar&langs_count=30&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+</a>
   <br/>
 
 

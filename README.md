@@ -78,7 +78,7 @@ https://github.com/sknsht/HackerRank
 <!--   <a href="https://github.com/theintezar/github-readme-stats"><img alt="theintezar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theintezar&langs_count=30&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/> -->
   
-  <div>
+  <div style = "display: flex; margin: 10px;">
        <div><img src = "https://image.pngaaa.com/628/2459628-middle.png"></div>
        <div>2</div>
        <div>3</div>

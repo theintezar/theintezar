@@ -25,7 +25,8 @@ https://github.com/sknsht/HackerRank
   <a href="https://twitter.com/">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/?color=236ad3&labelColor=1155ba&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/theintezar">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/theintezar?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a>
+<!--     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/theintezar?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a> -->
+    <img alt="followers" title="Follow me on Github" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/170627419/original/9962050ad1cdba04cbbb57867f317d035f404e7d/do-responsive-front-end-web-development-in-react-nodejs-html-css-bootstrap.png"/></a>
 </p>
 <hr>
 <!--

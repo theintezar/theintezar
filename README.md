@@ -73,4 +73,4 @@ and DS & Algo.</h3>
 <a href="https://github.com/theintezar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=theintezar">
 </a>
-<a href="https://github.com/theintezar?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/theintezar?tab=followers"><img src="https://img.shields.io/github/followers/theintezar?label=Followers&style=social" alt="GitHub Badge"></a>

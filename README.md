@@ -37,17 +37,17 @@ and DS & Algo.</h3>
 <br/>
 
 <p align="center">
-    <a href="https://github.com/shubhamkr0412/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Milind Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkr0412&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/theintezar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Milind Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theintezar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
   <p align="center">
-    <a href="https://github.com/shubhamkr0412/github-readme-stats"><img alt="milind anand" Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamkr0412&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/theintezar/github-readme-stats"><img alt="milind anand" Github Stats" src="https://github-readme-stats.vercel.app/api?username=theintezar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
      
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkr0412&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theintezar&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
   
   <br/>
@@ -56,7 +56,7 @@ and DS & Algo.</h3>
 <br/>
 <br/>
 
-<a href="https://github.com/shubhamkr0412/github-readme-activity-graph"><img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamkr0412&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/theintezar/github-readme-activity-graph"><img alt="Intezar Ahmad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theintezar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -64,13 +64,13 @@ and DS & Algo.</h3>
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shubham-kumar04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/intezar-khan-952563221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/shubhamkr0412/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shubhamkr0412">
+<a href="https://github.com/theintezar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=theintezar">
 </a>
-<a href="https://github.com/shubhamkr0412?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/theintezar?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a>

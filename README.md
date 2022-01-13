@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Intezar Ahmad</h1>
 <h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing,
 and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
 clean, elegant and efficient code. Highly skilled in collaboration, decision-making,
@@ -20,7 +20,7 @@ and DS & Algo.</h3>
 
 🥅 **2022 Goals :** Learning new things and contribute more
 
-📫 You can reach me at [chat](mailto:shubhamkr0412@gmail.com)
+📫 You can reach me at [chat](mailto:intezarkhan8292@gmail.com)
 
 ## 🚀 Languages and Tools:
 

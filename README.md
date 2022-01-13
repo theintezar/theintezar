@@ -1,87 +1,76 @@
-<!--
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Kumar</h1>
+<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing,
+and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
+clean, elegant and efficient code. Highly skilled in collaboration, decision-making,
+and DS & Algo.</h3>
 
+<p align= "center">
 
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+ <img src="https://img.shields.io/badge/React-Redux-blue"/>
 
+</p>
 
-source -- https://github.com/DenverCoder1/DenverCoder1
-https://github.com/sknsht/HackerRank
-### Hi there 👋
+## 🙋‍♂️ About Me
 
--->
+🌱 **I’m currently learning :** MERN Stack
 
+💬 **Ask me about :** JavaScript, React, Redux
 
+🥅 **2022 Goals :** Learning new things and contribute more
 
+📫 You can reach me at [chat](mailto:shubhamkr0412@gmail.com)
 
-<h3 align="left">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+## 🚀 Languages and Tools:
+
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>     
+     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+      
+</p>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/theintezar"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Intezar%20Ahmad;Computer%20Science%20Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+    <a href="https://github.com/shubhamkr0412/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Milind Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkr0412&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-<p align="center">
-<!--   <a href="https://twitter.com/">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/?color=236ad3&labelColor=1155ba&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a> -->
-  <a href="https://github.com/theintezar">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/theintezar?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a>
-
-</p>
-<hr>
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rohit_shar8600)-->
-
-
-
-
-
-<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=theintezar&label=Profile%20views&color=0e75b6&style=flat" alt="intezar" /> </p>
-
-<!--
-- 🔭 I’m currently working on ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...-->
-
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 🤔 I’m looking for help with **Competitive Programming**
-- 🥅 2021 Goals: Contribute to **Open Source projects**
-- ⚡ Fun fact: Programs and Move
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=acuon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="acuon"></p>-->
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=acuon&show_icons=true&locale=en" alt="acuon" /></p>-->
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acuon&show_icons=true&locale=en&layout=compact" alt="acuon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acuon&" alt="acuon" /></p>
-
-<hr>
--->
-
-
-<summary>🔥 Streak stats</summary>
-
-<p>
-    <img title="Streak stats" alt="intezar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theintezar&theme=monokai-metallian&hide_border=true"/>
+  <p align="center">
+    <a href="https://github.com/shubhamkr0412/github-readme-stats"><img alt="milind anand" Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamkr0412&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+     
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkr0412&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    </p>
   
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
+<a href="https://github.com/shubhamkr0412/github-readme-activity-graph"><img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamkr0412&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shubham-kumar04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 </p>
 
-<hr>
+## ❤ Views and Followers
 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/theintezar/github-readme-stats"><img alt="theintezar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theintezar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-<!--   <a href="https://github.com/theintezar/github-readme-stats"><img alt="theintezar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theintezar&langs_count=30&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a> -->
-
-  <a href="https://github.com/theintezar/github-readme-stats"><img alt="theintezar's Top Languages" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/170627419/original/9962050ad1cdba04cbbb57867f317d035f404e7d/do-responsive-front-end-web-development-in-react-nodejs-html-css-bootstrap.png" /></a>
-  <br/>
-  
-
-
-
-<hr>
+<a href="https://github.com/shubhamkr0412/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shubhamkr0412">
+</a>
+<a href="https://github.com/shubhamkr0412?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a>

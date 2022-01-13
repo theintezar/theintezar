@@ -46,9 +46,9 @@ and DS & Algo.</h3>
     <a href="https://github.com/theintezar/github-readme-stats"><img alt="Intezar Ahmad" Github Stats" src="https://github-readme-stats.vercel.app/api?username=theintezar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
      
-  <p align="center">
+<!--   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theintezar&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
-    </p>
+    </p> -->
   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

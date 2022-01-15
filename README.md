@@ -20,7 +20,7 @@ and DS & Algo.</h3>
 
 🥅 **2022 Goals :** Learning new things and contribute more
 
-📫 You can reach me at [chat](mailto:intezarkhan8292@gmail.com)
+📫 You can reach me at [mail](mailto:intezarkhan8292@gmail.com)
 
 ## 🚀 Languages and Tools:
 

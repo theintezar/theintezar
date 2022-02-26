@@ -36,11 +36,11 @@ and DS & Algo.</h3>
 </p>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/theintezar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Intezar Ahmad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theintezar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
   <p align="center">
     <a href="https://github.com/theintezar/github-readme-stats"><img alt="Intezar Ahmad" Github Stats" src="https://github-readme-stats.vercel.app/api?username=theintezar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

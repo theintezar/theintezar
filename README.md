@@ -14,11 +14,11 @@ and DS & Algo.</h3>
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently learning :** MERN Stack
+🌱 **I’m a ** MERN Stack developer with hands on experience.
 
 💬 **Ask me about :** JavaScript, React, Redux
 
-🥅 **2022 Goals :** Learning new things and contribute more
+🥅 **2023 Goals :** Learning new things and contribute more
 
 📫 You can reach me at [mail](mailto:intezarkhan8292@gmail.com)
 

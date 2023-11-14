@@ -22,12 +22,12 @@ and DS & Algo.</h3>
 
 📫 You can reach me at [mail](mailto:intezarkhan8292@gmail.com)
     
-##  You can see my <a href = "https://drive.google.com/file/d/1cXlRUt9XG8HAm65zifRTatBBnJKp_qkV/view?usp=sharing" target = "_blank">Resume</a>
+🌱 You can see my <a href = "https://drive.google.com/file/d/1cXlRUt9XG8HAm65zifRTatBBnJKp_qkV/view?usp=sharing" target = "_blank">Resume</a>
 
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/intezar-ahmad-952563221/" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+     <a href = "https://www.linkedin.com/in/intezar-ahmad-952563221/" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
      <a href = "https://twitter.com/Intezar95936667" target = "_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
      <a href = "mailto:intezarkhan8292@gmail.com" target = "_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>

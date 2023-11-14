@@ -29,8 +29,6 @@ and DS & Algo.</h3>
      <a href = "https://twitter.com/Intezar95936667" target = "_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
      <a href = "#" target = "_blank"><img src="https://img.icons8.com/color-glass/48/000000/medium-monogram.png"/></a>
      <a href = "mailto:intezarkhan8292@gmail.com" target = "_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-     
-
 </p>
 
 ## 🚀 Languages and Tools:

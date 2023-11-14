@@ -21,7 +21,8 @@ and DS & Algo.</h3>
 🥅 **2023 Goals :** Learning new things and contribute more
 
 📫 You can reach me at [mail](mailto:intezarkhan8292@gmail.com)
-    You can see my <a href = "https://drive.google.com/file/d/1cXlRUt9XG8HAm65zifRTatBBnJKp_qkV/view?usp=sharing" target = "_blank">Resume</a>
+    
+   You can see my <a href = "https://drive.google.com/file/d/1cXlRUt9XG8HAm65zifRTatBBnJKp_qkV/view?usp=sharing" target = "_blank">Resume</a>
 
 ## Connect with me:
 
